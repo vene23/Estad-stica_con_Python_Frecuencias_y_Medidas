@@ -1,4 +1,4 @@
-# Estadstica_con_Python_Frecuencias_y_Medidas
+# Estadistica_con_Python_Frecuencias_y_Medidas
 Este repositorio contiene proyectos de Data Science y Machine Learning aplicados a estadística y regresión lineal
 # Proyecto de Estadística con Python
 
@@ -18,4 +18,4 @@ Este repositorio contiene proyectos prácticos de **Estadística** y **Machine L
 3. Sigue los ejercicios y visualiza los resultados.
 
 ## Autor
-[vVene23]
+[Vene23]
